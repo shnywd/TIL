@@ -279,7 +279,7 @@ GRUB2の設定ファイル
   * 40_custom
   * 41_custom
 
-````
+```
 # BIOSブートの場合
 grub2-mkconfig -o /boot/grub2/grub.cfg
 # UEFIブートの場合

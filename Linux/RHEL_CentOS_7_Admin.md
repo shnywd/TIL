@@ -369,4 +369,9 @@ tar -C / -zxvf /opt/etc.tar.gz
   * 物理 or 仮想
 * ユーザーパラメータ
   * 開けるファイルの設定
-  *
+
+  tuned
+  用意されているプロファイル
+  * throughput-performance
+  * virtual-guest
+  * balances
